@@ -1,0 +1,11 @@
+# Rust build artifacts
+target/
+Cargo.lock
+
+# Environment
+.env*
+*.env
+
+# OS
+Thumbs.db
+.DS_Store
